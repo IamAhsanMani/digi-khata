@@ -1,0 +1,6 @@
+{
+  "name": "DigiKhata - Secure Multilingual Digital Ledger",
+  "description": "Production-ready, mobile-first digital Khata ledger with customer accounts, atomic financial transactions, multi-currency support, team management, and English, Urdu, and Pashto localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
